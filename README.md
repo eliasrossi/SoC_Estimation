@@ -1,5 +1,6 @@
 # SoC_Estimation
-Algorithms for SOC Estimation of Ion-Lithium Batteries.
+
+Algorithms for SOC Estimation of Ion-Lithium Batteries (https://doi.org/10.1016/j.est.2023.107677).
 
 Function func_EKF performs the estimation using the Extended Kalman Filter
 
